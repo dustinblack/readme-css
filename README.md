@@ -15,7 +15,7 @@
                 </tr>
                 <tr>
                     <th>Properties</th>
-                    <td><details><summary>flatten (<code>bool</code>)</summary>
+                    <td><details><summary>flatten (<code>bool<code>[test]</code></code>)</summary>
                         <table><tbody style="width: 100%">
                             <tr width=600>
                                 <th>Name:</th>
