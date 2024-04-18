@@ -4,7 +4,7 @@
 	<br>
 </div>
 
-<table><tbody>
+<table class="dgtable"><tbody>
                 <tr>
                     <th>Type:</th>
                     <td><code>scope</code></td>
@@ -16,7 +16,7 @@
                 <tr>
                     <th>Properties</th>
                     <td><details><summary>flatten (<code>bool</code>)</summary>
-                        <table><tbody>
+                        <table class="dgtable"><tbody>
                             <tr>
                                 <th>Name:</th>
                                 <td>flatten JSON structure</td>
