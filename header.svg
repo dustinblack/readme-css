@@ -5,6 +5,7 @@
 
 				.container {
 					color: white;
+                    background: black;
 				}
 
 				h1 {
