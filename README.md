@@ -7,15 +7,15 @@
 <table><tbody>
                 <tr>
                     <th width="20%">Type:</th>
-                    <td><code>scope</code></td>
+                    <td width="80%"><code>scope</code></td>
                 </tr>
                 <tr>
                     <th width="20%">Root object:</th>
-                    <td>PcpInputParams</td>
+                    <td width="80%">PcpInputParams</td>
                 </tr>
                 <tr>
                     <th width="20%">Properties</th>
-                    <td><details><summary>flatten (<code>bool</code>)</summary>
+                    <td width="80%"><details><summary>flatten (<code>bool</code>)</summary>
                         <table><tbody>
                             <tr>
                                 <th>Name:</th>
