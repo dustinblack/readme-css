@@ -17,11 +17,11 @@
                     <th>Properties</th>
                     <td><details><summary>flatten (<code>bool</code>)</summary>
                         <table><tbody style="width: 100%">
-                            <tr width="100%">
+                            <tr width=600>
                                 <th>Name:</th>
                                 <td>flatten JSON structure</td>
                             </tr>
-                            <tr width="100%">
+                            <tr width=600>
                                 <th>Description:</th>
                                 <td>Processes the metrics first into a two-dimensional format via the pcp2csv converter, and then converts the CSV to JSON, effectively flattening the data structure. This is useful when indexing metrics to a service like Elasticsearch.</td>
                             </tr>
