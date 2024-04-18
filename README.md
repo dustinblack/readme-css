@@ -5,7 +5,7 @@
 </div>
 
 <div width="100%">
-<table><tbody>
+<table><tbody width="100%">
                 <tr>
                     <th width="20%">Type:</th>
                     <td width="100%"><code>scope</code></td>
@@ -17,7 +17,7 @@
                 <tr>
                     <th width="20%">Properties</th>
                     <td width="100%"><details><summary>flatten (<code>bool</code>)</summary>
-                        <table><tbody>
+                        <table><tbody width="100%">
                             <tr>
                                 <th>Name:</th>
                                 <td>flatten JSON structure</td>
