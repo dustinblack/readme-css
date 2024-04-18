@@ -4,24 +4,24 @@
 	<br>
 </div>
 
-<table><tbody width="800">
+<table><tbody>
                 <tr>
-                    <th width="20%">Type:</th>
-                    <td width="100%"><code>scope</code></td>
+                    <th>Type:</th>
+                    <td><code>scope</code></td>
                 </tr>
                 <tr>
-                    <th width="20%">Root object:</th>
-                    <td width="100%">PcpInputParams</td>
+                    <th>Root object:</th>
+                    <td>PcpInputParams</td>
                 </tr>
                 <tr>
-                    <th width="20%">Properties</th>
-                    <td width="100%"><details><summary>flatten (<code>bool</code>)</summary>
+                    <th>Properties</th>
+                    <td><details><summary>flatten (<code>bool</code>)</summary>
                         <table><tbody style="width: 100%">
-                            <tr>
+                            <tr width="100%">
                                 <th>Name:</th>
                                 <td>flatten JSON structure</td>
                             </tr>
-                            <tr>
+                            <tr width="100%">
                                 <th>Description:</th>
                                 <td>Processes the metrics first into a two-dimensional format via the pcp2csv converter, and then converts the CSV to JSON, effectively flattening the data structure. This is useful when indexing metrics to a service like Elasticsearch.</td>
                             </tr>
