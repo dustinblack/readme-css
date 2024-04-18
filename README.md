@@ -23,7 +23,7 @@
                             </tr>
                             <tr>
                                 <th>Description:</th>
-                                <td width=600>Processes the metrics first into a two-dimensional format via the pcp2csv converter, and then converts the CSV to JSON, effectively flattening the data structure. This is useful when indexing metrics to a service like Elasticsearch.</td>
+                                <td width=400>Processes the metrics first into a two-dimensional format via the pcp2csv converter, and then converts the CSV to JSON, effectively flattening the data structure. This is useful when indexing metrics to a service like Elasticsearch.</td>
                             </tr>
                         </tbody></table>
                     </details></td>
