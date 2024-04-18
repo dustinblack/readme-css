@@ -4,19 +4,19 @@
 	<br>
 </div>
 
-<table class="dgtable"><tbody>
+<table><tbody>
                 <tr>
-                    <th>Type:</th>
+                    <th width="20%">Type:</th>
                     <td><code>scope</code></td>
                 </tr>
                 <tr>
-                    <th>Root object:</th>
+                    <th width="20%">Root object:</th>
                     <td>PcpInputParams</td>
                 </tr>
                 <tr>
-                    <th>Properties</th>
+                    <th width="20%">Properties</th>
                     <td><details><summary>flatten (<code>bool</code>)</summary>
-                        <table class="dgtable"><tbody>
+                        <table><tbody>
                             <tr>
                                 <th>Name:</th>
                                 <td>flatten JSON structure</td>
